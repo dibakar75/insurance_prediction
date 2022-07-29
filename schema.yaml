@@ -1,0 +1,10 @@
+columns:
+  age: int64,
+  sex: object,
+  bmi: float64,
+  children: int64,
+  smoker: object,
+  region: int64,
+  expenses: float64
+
+target_column: expenses
